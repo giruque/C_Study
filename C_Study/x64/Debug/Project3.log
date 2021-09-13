@@ -1,0 +1,101 @@
+﻿  since_210727.c
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(50,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(50,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(113,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(113,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(114,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(114,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(132,1): warning C4048: 배열 첨자가 다릅니다. 'int (*)[4]'과(와) 'int (*)[3][4]'
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(192,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(192,9): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(192,9): message : 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(192,9): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(193,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(193,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(201,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(201,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(379,10): warning C4477: 'scanf_s' : 서식 문자열 '%[^\n]'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(379,10): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(406,11): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(406,11): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(642,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(642,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(643,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(643,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(690,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(690,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(710,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(710,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(1265,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(1279,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(1343,25): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char'과(와) 다릅니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(1343,16): warning C4024: 'strtol': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(1336,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'char [21]'과(와) 다릅니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(1359,24): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(1370,24): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(1450,23): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(1468,23): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(1511,23): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(1552,23): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(1604,28): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(1575,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(1628,28): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(1640,9): warning C4778: 'printf' : 서식 문자열 '%\n'이(가) 종결되지 않았습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(1622,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(1788,15): warning C4047: '=': 'char'의 간접 참조 수준이 'char [2]'과(와) 다릅니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2068,11): warning C4133: '=': 'judge_Point3D_48 *'과(와) 'judge_point3D_48 *' 사이의 형식이 호환되지 않습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2173,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2173,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2174,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2174,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2175,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2175,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2176,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2176,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2193,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2193,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2194,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2194,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2195,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2195,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2197,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2197,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2198,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2198,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2199,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2199,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2200,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2200,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2218,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2218,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2219,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2219,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2220,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2220,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2222,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2222,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2223,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2223,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2240,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2240,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2258,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2258,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2259,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2259,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2275,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2275,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2294,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2294,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2103): warning C4716: 'two_point_distacne': 값을 반환해야 합니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2177): warning C4716: 'struct_sizeof': 값을 반환해야 합니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2152): warning C4716: 'judge_two_point_distance': 값을 반환해야 합니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2225): warning C4716: 'struct_align': 값을 반환해야 합니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2241): warning C4716: 'practice_struct_sizeof': 값을 반환해야 합니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2260): warning C4716: 'practice_struct_align': 값을 반환해야 합니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2276): warning C4716: 'judge_struct_sizeof': 값을 반환해야 합니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2295): warning C4716: 'judge_struct_align': 값을 반환해야 합니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2127): warning C4716: 'practice_area_of_rectangle': 값을 반환해야 합니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2317): warning C4716: 'struct_variable_memory_set': 값을 반환해야 합니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2336): warning C4716: 'struct_pointer_memory_set': 값을 반환해야 합니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2201): warning C4716: 'struct_offset': 값을 반환해야 합니다.
+  Project3.vcxproj -> C:\Users\Ayo\Desktop\C\Project3\x64\Debug\Project3.exe

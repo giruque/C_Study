@@ -1,0 +1,40 @@
+﻿  since_210727.c
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(141,1): warning C4048: 배열 첨자가 다릅니다. 'int (*)[4]'과(와) 'int (*)[3][4]'
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(1274,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(1288,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(1352,25): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char'과(와) 다릅니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(1352,16): warning C4024: 'strtol': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(1345,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'char [21]'과(와) 다릅니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(1368,24): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(1379,24): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(1584,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(1649,9): warning C4778: 'printf' : 서식 문자열 '%\n'이(가) 종결되지 않았습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(1631,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(1797,15): warning C4047: '=': 'char'의 간접 참조 수준이 'char [2]'과(와) 다릅니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2077,11): warning C4133: '=': 'judge_Point3D_48 *'과(와) 'judge_point3D_48 *' 사이의 형식이 호환되지 않습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2351,9): warning C4068: 알 수 없는 pragma 'variable_memory_copy'
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(3255,19): warning C4305: '=': 'unsigned int'에서 'unsigned short'(으)로 잘립니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(3256,19): warning C4305: '=': 'unsigned int'에서 'unsigned short'(으)로 잘립니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(3257,19): warning C4305: '=': 'unsigned int'에서 'unsigned short'(으)로 잘립니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(3307,19): warning C4305: '=': 'unsigned int'에서 'unsigned short'(으)로 잘립니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(3308,19): warning C4305: '=': 'unsigned int'에서 'unsigned short'(으)로 잘립니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(3309,19): warning C4305: '=': 'unsigned int'에서 'unsigned short'(으)로 잘립니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(3615,20): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(3654,8): warning C4101: 'cptr' :참조되지 않은 지역 변수입니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(4101,9): warning C4477: 'printf' : 서식 문자열 '%X'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'short *'입니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(4102,9): warning C4477: 'printf' : 서식 문자열 '%X'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'short *'입니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(4341,10): warning C4098: 'main_6112': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(4557,14): warning C4305: 'return': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(4694,23): warning C4133: '=': 'getName_6111 *'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(5997,11): warning C4098: 'main_6661': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(6247,19): warning C4133: '=': 'void (__cdecl *)()'과(와) 'char (__cdecl *)()' 사이의 형식이 호환되지 않습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(6248,28): warning C4133: '=': 'void (__cdecl *)(int,char *)'과(와) 'int (__cdecl *)()' 사이의 형식이 호환되지 않습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2112): warning C4716: 'two_point_distacne': 값을 반환해야 합니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(2136): warning C4716: 'practice_area_of_rectangle': 값을 반환해야 합니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(4387): warning C4172: 지역 변수 또는 임시: num1의 주소를 반환하고 있습니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(4637): warning C4716: 'allocPerson_619': 값을 반환해야 합니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(4688): warning C4716: 'getName_6111': 값을 반환해야 합니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(4846): warning C4716: 'setAttackSpeed_627': 값을 반환해야 합니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(4742): warning C4716: 'allocPoint2D_6113': 값을 반환해야 합니다.
+C:\Users\Ayo\Desktop\C\Project3\since_210727.c(4888): warning C4716: 'allocPoint3D_629': 값을 반환해야 합니다.
+  Project3.vcxproj -> C:\Users\Ayo\Desktop\C\Project3\Debug\Project3.exe
